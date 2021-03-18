@@ -1,0 +1,1 @@
+this application is a simple example of the spring-boot context for join between two entities.
